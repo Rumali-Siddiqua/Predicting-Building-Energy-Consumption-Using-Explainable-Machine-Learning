@@ -7,7 +7,7 @@
 
 Buildings account for nearly 40% of global energy consumption, with HVAC systems as the largest contributor. Accurately forecasting energy demands is critical for reducing waste, lowering costs, and cutting carbon emissions.
 
-This project develops and compares four machine learning models to predict **Heating Load (HL)** and **Cooling Load (CL)** from structural building parameters, with a focus on **explainability** — understanding *why* buildings consume more energy, not just predicting that they do.
+This project develops and compares four machine learning models to predict **Heating Load (HL)** and **Cooling Load (CL)** from structural building parameters, with a focus on **explainability**, understanding *why* buildings consume more energy, not just predicting that they do.
 
 **Key results:**
 - Random Forest & Gradient Boosting: R²=0.998 for Heating Load
